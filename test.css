@@ -1,0 +1,20 @@
+body{
+    background-color: green;
+}
+.form-center{
+    
+}
+
+table{
+    background: Yellow;
+    border: black 2px solid;
+}
+
+th{
+background-color: gray;
+
+}
+td{
+    text-align: justify;
+    text-decoration: dotted;
+}
