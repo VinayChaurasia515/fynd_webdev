@@ -4,6 +4,14 @@ body{
 .form-center{
     
 }
+h1{
+    text-shadow: 2px 2px red;
+}
+img{
+    border-radius: 50%;
+    border: 2px solid;
+    box-shadow: 5px 5px 5px 5px red;
+}
 
 table{
     background: Yellow;
@@ -18,3 +26,4 @@ td{
     text-align: justify;
     text-decoration: dotted;
 }
+

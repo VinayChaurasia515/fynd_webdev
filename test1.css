@@ -1,0 +1,15 @@
+#parent{
+    color: red;
+}
+
+#parent #a{
+    color: blue;
+}
+/* #parent #a #a1 , #a2{
+    color: rgb(105, 96, 96);
+} */
+
+#parent #b{
+    color: aqua;
+}
+
